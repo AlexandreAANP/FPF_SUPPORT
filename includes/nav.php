@@ -73,8 +73,8 @@
         </a>
         <ul id="menu-links" class="menu-mobile-link list-unstyled d-flex flex-column flex-fill w-100">
             
-<li class="py-3"><a href="https://fpfsistemas.ibiz.pt//who-we-are" title="<?php echo $translate['Who we are'];?>" class="menu-link-font"><?php echo $translate['Who we are'];?></a></li>
-<li class="py-3"><a href="https://fpfsistemas.ibiz.pt//Services" title="<?php echo $translate['Services'];?>" class="menu-link-font"><?php echo $translate['Services'];?></a></li>
+<li class="py-3"><a href="https://fpfsistemas.ibiz.pt/who-we-are" title="<?php echo $translate['Who we are'];?>" class="menu-link-font"><?php echo $translate['Who we are'];?></a></li>
+<li class="py-3"><a href="https://fpfsistemas.ibiz.pt/Services" title="<?php echo $translate['Services'];?>" class="menu-link-font"><?php echo $translate['Services'];?></a></li>
 <li class="py-3"><a href="https://www.fpfsuporte.com/" title="<?php echo $translate['Customer support'];?>" class="menu-link-font"><?php echo $translate['Customer support'];?></a></li>
 
             <li class="mobile-menu-speak-with-us"><a class=" noLoad" href="#contact"><?php echo $translate['Speak with us'];?></a></li>
